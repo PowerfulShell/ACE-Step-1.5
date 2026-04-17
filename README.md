@@ -1,3 +1,10 @@
+Run this command in an ADMINISTRATOR PowerShell window to install FFmpeg automatically.
+
+PowerShell
+
+winget install "FFmpeg (Essentials Build)"
+
+
 <h1 align="center">ACE-Step 1.5</h1>
 <h1 align="center">Pushing the Boundaries of Open-Source Music Generation</h1>
 <p align="center">
